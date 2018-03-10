@@ -1,0 +1,6 @@
+jsonrpc_requests
+chainside-btcpy
+git+https://github.com/trezor/python-trezor.git
+web3
+py-solc
+
